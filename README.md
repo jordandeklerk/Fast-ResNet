@@ -13,7 +13,7 @@
 <hr>
 
 ## Highlights
-The goal is this project is to create a slightly modified version of the fast ResNet model from David Page's amazing blog post [How to Train Your ResNet 8: Bag of Tricks](https://myrtle.ai/learn/how-to-train-your-resnet-8-bag-of-tricks/), where a modified ResNet is trained to reach 94% accuracy in 26 seconds on a V100 GPU. Our model trained for 23 minutes on a single A100 GPU for 50 epochs and reached a final accuracy of 95% on `CIFAR-10`.
+The goal of this project is to create a slightly modified version of the fast ResNet model from David Page's amazing blog post [How to Train Your ResNet 8: Bag of Tricks](https://myrtle.ai/learn/how-to-train-your-resnet-8-bag-of-tricks/), where a modified ResNet is trained to reach 94% accuracy in 26 seconds on a V100 GPU. Our model trained for 23 minutes on a single A100 GPU for 50 epochs and reached a final accuracy of 95% on `CIFAR-10`.
 
 <hr>
 
